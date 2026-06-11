@@ -24,6 +24,16 @@ export const BonusSection = (): JSX.Element => {
       description:
         "Give students an idea of how they can expect to grow throughout your course. Include specificity and precise results so students can benchmark exactly what they'll learn.",
     },
+    {
+      title: "AI Product Metrics & KPIs: Measure success and drive data-informed decisions",
+      description:
+        "Learn to define and track key metrics for AI products, understand performance indicators, and use data to make strategic product decisions that align with business objectives.",
+    },
+    {
+      title: "Ethics & Responsible AI: Build products that users trust and regulators approve",
+      description:
+        "Master the principles of ethical AI development, understand bias mitigation strategies, and learn compliance frameworks to build responsible AI products that meet regulatory standards.",
+    },
   ];
 
   return (
